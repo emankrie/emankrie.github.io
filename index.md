@@ -1,3 +1,3 @@
 # main page
 ## code example
-[code example](https://emankrie.github.io/code_example.md "code example")
+[code example](/code_example/ "code example")
