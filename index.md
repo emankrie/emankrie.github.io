@@ -1,7 +1,3 @@
----
-layout: default
-title: About
----
-
 # main page
-## subtitle
+## code example
+[code example](https://emankrie.github.io/code_example.md "code example")
