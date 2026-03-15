@@ -33,6 +33,7 @@ This is a paragraph.
 
 This is another paragraph
 ```
+
 A paragraph will be interpreted as a "p" element.
 
 ## Step 4: Separate your paragraphs with Subheading
@@ -102,7 +103,7 @@ Simply add ">" to the beginning of each line of your quote.
 
 ### Source code quotes
 
-If you want to display source code with syntax highlighting, simply enclose the code with three bakcticks, make sure to declare what kind of code it is by writing the name of the language after your first three backticks with **no space character** in between.
+If you want to display source code with syntax highlighting, simply enclose the code with three backticks, make sure to declare what kind of code it is by writing the name of the language after your first three backticks with **no space character** in between.
 
 ````markdown
 ```markdown
