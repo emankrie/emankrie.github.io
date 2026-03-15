@@ -8,5 +8,5 @@ def greet(name):
 ## go back to main page
 [main page](/index.html "main page")
 
-## about
-[about](/about.html "about")
+## a quick guide for writing markdown
+[about](/how_to_md.html "about")
