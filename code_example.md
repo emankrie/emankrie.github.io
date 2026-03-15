@@ -9,4 +9,4 @@ def greet(name):
 [main page](/index.html "main page")
 
 ## a quick guide for writing markdown
-[about](/how_to_md.html "about")
+[Markdown Guide](/how_to_md.html "Markdown Guide")

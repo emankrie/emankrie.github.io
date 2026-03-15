@@ -6,8 +6,8 @@
 
 If you are interested in how to write markdown, make sure to check out my guide by clicking on the link below!
 
-## code example
-[code example](/code_example.html "code example")
-
 ## a quick guide for writing markdown
-[about](/how_to_md.html "about")
+[Markdown Guide](/how_to_md.html "Markdown Guide")
+
+## code example
+[Example Code](/code_example.html "Code Example")
