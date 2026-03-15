@@ -44,9 +44,10 @@ Now that your webpage is full of paragraphs it is time to separate them using su
 
 ## Heading 2
 ```
+
 This is called a level 2 heading, it will be interpreted as a "h2" element.
 
-As you probably already assumed, there are even more levels to headings in markdown.  You can use up to six different levels, to improve readybility!
+As you probably already assumed, there are even more levels to headings in markdown. You can use up to six different levels, to improve readybility!
 
 ```markdown
 # Heading 1
@@ -61,6 +62,55 @@ As you probably already assumed, there are even more levels to headings in markd
 
 ###### Heading 6
 ```
+
+## Step 5: Adding Emphasis to sections
+
+To make parts of your text stand out, you can add emphasis to it. **Bold** and *italic* are the two emphases available in markdown. Simply enclose the parts you want to emphasize with one, two or three asterisks.
+
+### Bold
+
+```markdown
+Adding **emphases** to your page is awesome!
+```
+
+### Italic
+
+```markdown
+Adding *emphases* to your page is awesome!
+```
+
+### Bold + Italic
+
+```markdown
+Adding ***emphases*** to your page is awesome!
+```
+
+## Step 6: Quotation
+
+If you want to include quotes, markdown has got you covered! Not only can you add quotes from your favourite book, it's also possible to display source code from a large number of programming languages with beautiful syntax highlighting.
+
+### Blockquotes
+
+Blockquotes are very useful if you want to display plain text as a quotation.
+Simply add ">" to the beginning of each line of your quote.
+
+```markdown
+>This is the first line of the quote!
+>
+>This is the last line of the quote!
+```
+
+### Source code quotes
+
+If you want to display source code with syntax highlighting, simply enclose the code with three bakcticks, make sure to declare what kind of code it is by writing the name of the language after your first three backticks with **no space character** in between.
+
+````markdown
+```markdown
+# headline 1
+
+This is an example paragraph!
+```
+````
 
 ## view a code example
 [code example](/code_example.html "code example")
