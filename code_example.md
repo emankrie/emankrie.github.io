@@ -5,8 +5,8 @@ def greet(name):
     print(f"Hello, {name}!")
 ```
 
-## go back to main page
+## Go back to main page
 [main page](/index.html "main page")
 
-## a quick guide for writing markdown
+## A quick guide for writing markdown
 [Markdown Guide](/how_to_md.html "Markdown Guide")

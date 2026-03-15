@@ -1,4 +1,4 @@
-# main page
+# Emanuel's static generated Website
 
 ## This is what a markdown file looks like
 
@@ -6,8 +6,8 @@
 
 If you are interested in how to write markdown, make sure to check out my guide by clicking on the link below!
 
-## a quick guide for writing markdown
+## A quick guide for writing markdown
 [Markdown Guide](/how_to_md.html "Markdown Guide")
 
-## code example
+## Code Example
 [Example Code](/code_example.html "Code Example")
