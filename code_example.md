@@ -1,4 +1,5 @@
 # Code Example
+A simple python program to greet the user.
 ```python
 def greet(name):
     print(f"Hello, {name}!")
