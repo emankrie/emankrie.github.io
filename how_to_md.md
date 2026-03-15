@@ -46,7 +46,7 @@ Now that your webpage is full of paragraphs it is time to separate them using su
 ```
 This is called a level 2 heading, it will be interpreted as a "h2" element.
 
-As you probably already assumed, there are even more levels to headings in markdown. You can use up to six different levels, to improve readybility!
+As you probably already assumed, there are even more levels to headings in markdown.  You can use up to six different levels, to improve readybility!
 
 ```markdown
 # Heading 1
