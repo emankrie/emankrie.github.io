@@ -132,7 +132,7 @@ To display images from the same directory as your markdown file, write "!" follo
 Congratulations, you made it to the end of my quick guide on markdown! I hope you learned a lot and had some fun aswell.
 
 ## View a code example
-[code example](/code_example.html "code example")
+[Example Code](/code_example.html "Example Code")
 
 ## Go back to main page
-[main page](/index.html "main page")
+[Main Page](/index.html "Main Page")

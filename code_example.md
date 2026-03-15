@@ -6,7 +6,7 @@ def greet(name):
 ```
 
 ## Go back to main page
-[main page](/index.html "main page")
+[Main Page](/index.html "Main Page")
 
 ## A quick guide for writing markdown
 [Markdown Guide](/how_to_md.html "Markdown Guide")
