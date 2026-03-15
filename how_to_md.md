@@ -113,6 +113,24 @@ This is an example paragraph!
 ```
 ````
 
+## Step 7: Links
+
+To create a link to another webpage, enclose the text you want the link to display in square brackets directly followed by the url enclosed in round brackets.
+
+```markdown
+[This text will be displayed](webpages's url)
+```
+
+## Step 8: Images
+
+To display images from the same directory as your markdown file, write "!" followed by the alternative text, if the image can't be loaded enclosed in square brackets, followed by the images name enclosed in round brackets.
+
+```markdown
+![Alternative Text](image.png)
+```
+
+Congratulations, you made it to the end of my quick guide on markdown! I hope you learned a lot and had some fun aswell.
+
 ## view a code example
 [code example](/code_example.html "code example")
 
