@@ -1,4 +1,4 @@
-# Emanuel's static generated Website
+# Emanuel's statically generated Website
 
 ## This is what a markdown file looks like
 
